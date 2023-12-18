@@ -1,3 +1,5 @@
+# Este código está sendo melhorado
+
 # Calculadora Simples em Tkinter
 Este é um código simples em Python utilizando a biblioteca Tkinter para criar uma interface gráfica de uma calculadora. A calculadora realiza operações básicas de adição, subtração, multiplicação e divisão.
 
